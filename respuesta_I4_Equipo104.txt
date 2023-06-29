@@ -1,0 +1,12 @@
+FERNANDES JOAQUIN
+MANUEL GARCIA
+RODRIGO CORDOBA
+a)BLUE
+B)yellow
+C)yellow
+D)el de beta
+E) Si, BETA y GAMMA
+f) Al quedar atras en commit git tira error por que esta desactualizado el repo local
+g)hacer un git pull y luego hacer el push, asi el repo quedaria actualizado
+h) fuerza el update
+I) Subir los P con cada push y cada pull y despues pararme en desarrollo y mergear con testing
